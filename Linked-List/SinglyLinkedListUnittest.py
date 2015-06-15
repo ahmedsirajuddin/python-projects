@@ -1,5 +1,5 @@
 import unittest
-from LinkedList import LinkedList, Node
+from SinglyLinkedList import LinkedList, Node
 
 class NodeFunctionsTest(unittest.TestCase):
 
